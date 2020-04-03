@@ -1,0 +1,30 @@
+{
+  "name": "cash-ez-carrot",
+  "version": "1.0.0",
+  "description": "Recreating EZ Carrot Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "postcss src/tailwind.css -o dist/assets/css/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShridharUlli/cash-ez-carrot.git"
+  },
+  "author": "Shridhar Ulli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShridharUlli/cash-ez-carrot/issues"
+  },
+  "homepage": "https://github.com/ShridharUlli/cash-ez-carrot",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.5",
+    "postcss-cli": "^7.1.0",
+    "tailwindcss": "^1.2.0"
+  }
+}
