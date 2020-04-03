@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ShridharUlli/cash-ez-carrot/issues"
   },
-  "homepage": "https://github.com/ShridharUlli/cash-ez-carrot",
+  "homepage": "https://shridharulli.github.io/cash-ez-carrot/.",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
