@@ -5,3 +5,5 @@ Live at [https://shridharulli.github.io/cash-ez-carrot](https://shridharulli.git
 ### Designed Mockup
 
 ![Mockup](dist/assets/img/mockup.png)
+
+**npm install** & **gulp watch** to run file
