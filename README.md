@@ -2,7 +2,13 @@
 
 Live at [Cash Carrot](https://shridharulli.github.io/cash-ez-carrot)
 
-**npm install** & **gulp watch** to run file
+```shell
+npm install
+```
+
+```shell
+gulp watch
+```
 
 ###### The website is not responsive.
 
