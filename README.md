@@ -6,6 +6,6 @@ Live at [https://shridharulli.github.io/cash-ez-carrot](https://shridharulli.git
 
 ###### The website is not responsive.
 
-### Designed Mockup
+## Design
 
 ![Mockup](dist/assets/img/mockup.png)
